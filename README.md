@@ -1,2 +1,2 @@
-# Class-33
-Debugging Tips and Tricks
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
